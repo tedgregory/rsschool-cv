@@ -1,6 +1,6 @@
 ﻿# CV. Fedor Grigoryev
 ## Bio
-Hello, my name is Fedor. I'm an SEO engineer and Web-development student. I'm focused on improving my Webdev skills and getting into a challenging international team or web project. 
+![Ted](./assets/avatar.png) Hello, my name is Fedor. I'm an SEO engineer and Web-development student. I'm focused on improving my Webdev skills and getting into a challenging international team or web project. 
 
 I actually used to code a lot of poor-quality (as it seems now) websites back in 2000s. It's left behind. The purpose is to catch up, so I'm starting from scratch.
 ## Education
