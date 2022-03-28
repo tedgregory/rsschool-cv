@@ -1,2 +1,3 @@
-# rsschool-cv
-RS School CV Task
+#RS School CV Task#
+
+available at https://tedgregory.github.io/rsschool-cv
